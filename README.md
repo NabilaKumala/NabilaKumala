@@ -1,6 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+Perkenalkan nama saya **Nabila Kumala Gantari**.<br>
+Saya seorang **Mahasiswa** Departemen Sistem Informasi, Institut Teknologi Sepuluh Nopember (ITS).<br>
+Saat ini, saya sedang menjadi *Cohort* **Bangkit Academy 2024 Batch 1 - Machine Learning Learning Path**.  
+Mari saling terhubung melalui [Linkedin](https://www.linkedin.com/in/nabilakgantari/)!
 
 <!--
+//# Halo semua! 
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br
+Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
 **NabilaKumala/NabilaKumala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
